@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadyafa&label=Profile%20views&color=0e75b6&style=flat" alt="nadyafa" /> </p>
 
 - 🌱 I’m recently start to learn about **golang**
-- ⚡ Fun fact : **I am a civil engineer during the day and coder at night!**
+- ⚡ Fun fact : I am a **civil engineer** during the day and a **coder** at night!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
