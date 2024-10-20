@@ -1,5 +1,5 @@
 <h1 align="left">Hi There👋</h1>
-<h3 align="left">I'm Nadya. I'm a self-learn webdev and IT enthusiast.</h3>
+<h3 align="left">I'm Nadya. I'm a self-taught web developer and IT enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadyafa&label=Profile%20views&color=0e75b6&style=flat" alt="nadyafa" /> </p>
 
